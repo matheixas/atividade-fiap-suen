@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+:root{
+    --bg-default1: #8F3838;
+    --bg-default2: #bb5b5b;
+    --bg-default3: #bdb9b9;
+}
+
+.my-nav{
+    width: 95%;
+}
+
+.my-title{
+    color: #8F3838;
+    font-weight: 700;
+}
+
+.my-button{
+    background-color: #8F3838;
+}
+
+.bg-clean{
+    background-color: #eee5e5;
+}
+
+.my-icon{
+    width: 30%;
+}
+
+.sobre{
+    min-height: 60vh;
+}
